@@ -1,6 +1,7 @@
 {
   "name": "gxcok/yii2-admin",
   "description": "RBAC Auth manager for Yii2",
+  "version": "1.2.0",
   "keywords": [
     "yii2",
     "admin",
